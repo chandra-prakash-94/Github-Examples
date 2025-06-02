@@ -8,3 +8,15 @@
 - tables
 - images
 - links
+
+## Headings
+
+*italics*
+
+**bold**
+
+## Codes
+
+```python
+print("hello")
+```
